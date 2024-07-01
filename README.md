@@ -31,11 +31,5 @@ Feel free to reach out to me if you have any questions or would like to collabor
 - **LinkedIn:** https://www.linkedin.com/in/muktadir-sony-b5b576199/
 - **Email:** info.muktadir@gmail.com
 
-## Let's Connect!
-Connect with me on social media platforms:
-
-- **Twitter:** [@YourTwitterHandle](https://twitter.com/your-twitter-handle)
-- **GitHub:** [@YourGitHubHandle](https://github.com/your-github-handle)
-
 ## License
 This repository is licensed under the [MIT License](LICENSE).
