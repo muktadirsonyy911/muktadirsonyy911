@@ -28,7 +28,7 @@ I actively contribute to the Flutter community through open-source projects and 
 ## Contact Me
 Feel free to reach out to me if you have any questions or would like to collaborate on a project:
 
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muktadir-sony-b5b576199/)
+- **LinkedIn:** https://www.linkedin.com/in/muktadir-sony-b5b576199/
 - **Email:** info.muktadir@gmail.com
 
 ## Let's Connect!
