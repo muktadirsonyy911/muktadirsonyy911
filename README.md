@@ -25,7 +25,7 @@
 
 🔧 Skilled in Dart, Firebase, REST APIs, Clean Architecture, Riverpod, GetX, Bloc, Deep Linking, Multithreading, and CustomPaint.
 
-🔭 Currently working at **Apsis Solutions Limited** and actively developing scalable mobile applications for both iOS and Android platforms.
+🔭 Currently working at **Apsis Solutions Limited** and actively developing scalable mobile applications for both iOS and Android.
 
 🧠 I’m also a strong believer in continuous learning and open-source collaboration.
 
