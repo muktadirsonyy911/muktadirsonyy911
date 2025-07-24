@@ -1,35 +1,99 @@
-# Welcome to My GitHub Profile 👋
+<h1 align="center">Hi there, I'm Muktadir Sony 👋</h1>
 
-## About Me
-I am a passionate Flutter developer with over 3.5 years of experience in building robust mobile applications. My journey with Flutter began when I discovered its powerful cross-platform capabilities, and since then, I have been dedicated to mastering the framework and delivering high-quality apps.
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&center=true&width=500&lines=Flutter+Developer;Mobile+App+Engineer;Open+Source+Contributor;Lifelong+Learner" alt="Typing SVG" />
+</p>
 
-## Skills
-- **Flutter:** Experienced in developing cross-platform mobile applications using Flutter framework.
-- **Dart:** Proficient in Dart programming language, the foundation of Flutter development.
-- **UI/UX Design:** Skilled in creating intuitive and responsive user interfaces.
-- **Firebase:** Hands-on experience in integrating Firebase services like Firestore, Authentication, and Cloud Functions.
-- **RESTful APIs:** Knowledgeable in consuming RESTful APIs to fetch and persist data in Flutter apps.
-- **State Management:** Familiar with state management solutions such as Provider, Bloc, and Redux.
+<p align="center">
+  <img src="https://img.shields.io/badge/Flutter-Expert-blue?style=for-the-badge&logo=flutter" />
+  <img src="https://img.shields.io/badge/Dart-Proficient-0175C2?style=for-the-badge&logo=dart" />
+  <img src="https://img.shields.io/badge/Firebase-Integrated-FFCA28?style=for-the-badge&logo=firebase" />
+  <img src="https://img.shields.io/badge/UI%2FUX-Designer-orange?style=for-the-badge&logo=figma" />
+</p>
 
-## Projects
-Here are some highlights of projects I've worked on:
+---
 
-- **Project 1:** Brief description or link (if public) to showcase what you've built.
-- **Project 2:** Brief description or link (if public) to showcase what you've built.
-- **Project 3:** Brief description or link (if public) to showcase what you've built.
+## 🚀 About Me
 
-## Contributions
-I actively contribute to the Flutter community through open-source projects and repositories. Some notable contributions include:
+👨‍💻 I’m a passionate **Flutter developer** with over **4.5 years** of experience crafting beautiful, performant mobile apps.
 
-- **Contribution 1:** Description or link to the repository where you contributed.
-- **Contribution 2:** Description or link to the repository where you contributed.
-- **Contribution 3:** Description or link to the repository where you contributed.
+🔧 Skilled in Dart, Firebase, REST APIs, Clean Architecture, Riverpod, GetX, Bloc, Deep Linking, Multithreading, and CustomPaint.
 
-## Contact Me
-Feel free to reach out to me if you have any questions or would like to collaborate on a project:
+🔭 Currently working at **Apsis Solutions Limited** and actively developing scalable mobile applications for both iOS and Android platforms.
 
-- **LinkedIn:** https://www.linkedin.com/in/muktadir-sony-b5b576199/
-- **Email:** info.muktadir@gmail.com
+🧠 I’m also a strong believer in continuous learning and open-source collaboration.
 
-## License
-This repository is licensed under the [MIT License](LICENSE).
+---
+
+## 🛠️ Tech Stack
+
+- 💙 **Flutter & Dart** — Cross-platform development at its best  
+- 🔥 **Firebase** — Firestore, Auth, Functions, Analytics  
+- 🔗 **REST APIs** — Seamless data handling  
+- 📦 **State Management** — Riverpod, GetX, Bloc  
+- 🧵 **UI & Animation** — CustomPaint, Animations, Responsive Layouts  
+- ⚙️ **Tools** — Git, Postman, JIRA, Trello, Slack  
+- 🧠 **Architecture** — Clean Architecture, MVC, MVVM  
+
+---
+
+## 📱 Featured Projects
+
+- 🚀 **Bengal Meat**  
+  _Ecommerce app for fresh meat and groceries with real-time tracking._  
+  ▶️ [Play Store](https://play.google.com/store/apps/details?id=com.apsissolutions.bengal_meat) | 🍎 [App Store](https://apps.apple.com/us/app/bengal-meat-food-groceries/id1618207942)
+
+- 🛎️ **Plagit**  
+  _Staffing solution for hospitality businesses._  
+  ▶️ [Play Store](https://play.google.com/store/apps/details?id=com.invain.mh) | 🍎 [App Store](https://apps.apple.com/us/app/mh-premier-staffing-solutions/id6446052294)
+
+- ❤️ **Team Positive Bangladesh**  
+  _Awareness & support app for HIV/AIDS initiatives._  
+  ▶️ [Play Store](https://play.google.com/store/apps/details?id=com.teampositivebd.tpbapp)
+
+- 🧵 **Fabric Lagbe**  
+  _Textile e-commerce platform for fabric vendors._  
+  ▶️ [Play Store](https://play.google.com/store/apps/details?id=com.apps.fabricslagbe)
+
+🔗 _More live apps are listed in my CV._
+
+---
+
+## 🔐 Open Source & Private Contributions
+
+> 🛠️ Many of my contributions are made to **private organizational repositories**, powering production apps on both **App Store and Play Store**.  
+> 🧩 I also contribute to Flutter plugins, bug fixes, and utility packages in the open-source community.
+
+---
+
+## 📈 GitHub Stats & Trophies
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=muktadirsonyy911&show_icons=true&theme=radical" width="450" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muktadirsonyy911&theme=radical" width="450" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=muktadirsonyy911&theme=radical&row=1&column=7" />
+</p>
+
+---
+
+## 📫 Let’s Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/muktadir-sony-b5b576199/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-MuktadirSony-blue?style=flat-square&logo=linkedin" />
+  </a>
+  <a href="mailto:info.muktadir@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-info.muktadir@gmail.com-red?style=flat-square&logo=gmail" />
+  </a>
+  <a href="https://github.com/muktadirsonyy911">
+    <img src="https://img.shields.io/github/followers/muktadirsonyy911?label=Follow&style=social" />
+  </a>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=muktadirsonyy911.muktadirsonyy911" />
+</p>
+
+---
+
+⭐️ _If you like my work, consider giving a ⭐ to support or connect with me for collaborations!_
