@@ -11,6 +11,12 @@
   <img src="https://img.shields.io/badge/UI%2FUX-Designer-orange?style=for-the-badge&logo=figma" />
 </p>
 
+<p align="center">
+  <a href="https://github.com/muktadirsonyy911/personal/blob/main/Muktadir_Sony's_CV.pdf" download>
+    <img src="https://img.shields.io/badge/📄%20Download%20Resume-007ACC?style=for-the-badge&logo=google-drive&logoColor=white" alt="Download Resume Button" />
+  </a>
+</p>
+
 ---
 
 ## 🚀 About Me
