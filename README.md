@@ -25,9 +25,13 @@
 
 🔧 Skilled in Dart, Firebase, REST APIs, Clean Architecture, Riverpod, GetX, Bloc, Deep Linking, Multithreading, and CustomPaint.
 
-🔭 Currently working at **Apsis Solutions Limited** and actively developing scalable mobile applications for both iOS and Android.
+🔭 Currently working at **Apsis Solutions Limited**, building scalable and robust mobile applications for iOS and Android.
 
-🧠 I’m also a strong believer in continuous learning and open-source collaboration.
+🧠 I believe in **continuous learning**, open-source collaboration, and writing clean, maintainable code.
+
+🤝 A collaborative team player with an agile mindset, eager to contribute to innovative projects globally.
+
+🌍 **Seeking remote or onsite opportunities** in mobile app development where I can bring impact and grow professionally.
 
 ---
 
@@ -67,8 +71,8 @@
 
 ## 🔐 Open Source & Private Contributions
 
-> 🛠️ Many of my contributions are made to **private organizational repositories**, powering production apps on both **App Store and Play Store**.  
-> 🧩 I also contribute to Flutter plugins, bug fixes, and utility packages in the open-source community.
+> 🛠️ Many contributions to **private organizational repositories**, powering production apps on both **App Store and Play Store**.  
+> 🧩 Active contributor to Flutter plugins, bug fixes, and utility packages in the open-source community.
 
 ---
 
