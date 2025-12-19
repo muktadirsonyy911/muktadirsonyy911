@@ -21,7 +21,7 @@
 
 ## 🚀 About Me
 
-👨‍💻 I’m a passionate **Flutter developer** with over **4.5 years** of experience crafting beautiful, performant mobile apps.
+👨‍💻 I’m a passionate **Flutter developer** with over **05 years** of experience crafting beautiful, performant mobile apps.
 
 🔧 Skilled in Dart, Firebase, REST APIs, Clean Architecture, Riverpod, GetX, Bloc, Deep Linking, Multithreading, and CustomPaint.
 
